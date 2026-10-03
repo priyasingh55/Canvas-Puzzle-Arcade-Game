@@ -1,4 +1,4 @@
-# 🎮 Canvas Arcade Game Hub
+# 🎮 Puzzle Arcade Game Hub
 
 A rich multi-game arcade collection built with **React**, **Vite**, **TypeScript**, and HTML5 **Canvas**.
 
@@ -40,10 +40,10 @@ A rich multi-game arcade collection built with **React**, **Vite**, **TypeScript
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/priyasingh55/canvas-arcade-games.git
+git clone https://github.com/priyasingh55/puzzle-arcade-game.git
 
 # Navigate to project directory
-cd canvas-arcade-games
+cd puzzle-arcade-game
 
 # Install dependencies
 npm install
