@@ -40,7 +40,7 @@ A rich multi-game arcade collection built with **React**, **Vite**, **TypeScript
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/priyasingh55/puzzle-arcade-game.git
+git clone https://github.com/priyasingh55/Canvas-Puzzle-Arcade-Game.git
 
 # Navigate to project directory
 cd puzzle-arcade-game
